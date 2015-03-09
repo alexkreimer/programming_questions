@@ -3,9 +3,9 @@ You are given an array of stock prices for a company for some period of time
 (in the code below the array is stock_prices). Write a function that calculates
 the time to buy and sell stock so that the profit is maximal.  Some rules that
 you need to obey:
-* You may buy one time and sell one time.
+* You are permitted to perform only one buy and one sell.
 * You must buy before you sell.
-* Please write nice
+* Please mind your coding style.
 * DO NOT copy/paste anything from the internet
 * Comment all your code
 '''
